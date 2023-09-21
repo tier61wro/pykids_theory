@@ -1,5 +1,3 @@
-# pykids_theory
-
 # План обучения Python
 
 ## [0. Настройка среды программирования для Python](0_lesson_Base_settings.md)
