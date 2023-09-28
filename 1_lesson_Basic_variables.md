@@ -23,7 +23,7 @@ print("Hello, World!")
 ке следующую команду:
 ```python
 spam = 15
-![Selection_255](https://github.com/tier61wro/pykids_theory/assets/9798885/852c5491-baea-4ef1-b57f-bde5ed6334e3)
+![рисунок1](images/u1_img1.png)
 
 ```
 
