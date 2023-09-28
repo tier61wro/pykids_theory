@@ -71,8 +71,7 @@ weight = 45.5
 has_homework = True
 ```
 
-
-<span style="color:red">TODO - ту надо рассказать об операцих со строками</span>
+:warning: TODO - ту надо рассказать об операцих со строками</span>
 (чтобы дальше можно было говорить о 
 ```python
 print("Привет, " + name + "!"))
