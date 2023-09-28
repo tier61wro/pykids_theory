@@ -47,6 +47,7 @@ print(is_equal)  # Результат: False
 is_not_equal = a != b  # Не равно
 print(is_not_equal)  # Результат: True
 ```
+:warning: TODO добавить >=
 
 ---
 
