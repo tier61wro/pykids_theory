@@ -87,7 +87,7 @@ has_homework = True
 
 :warning: TODO рассказать про то что принт умеет в несколько аргументов
 ```python
->>> print("Привет", name)
+print("Привет", name)
 Привет anna
 
 ```
