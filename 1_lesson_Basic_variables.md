@@ -84,7 +84,7 @@ weight = 45.5
 has_homework = True
 ```
 
-:warning: 
+:warning: TODO рассказать про то что принт умеет в несколько аргументов
 ```python
 >>> print("Привет", name)
 Привет anna
