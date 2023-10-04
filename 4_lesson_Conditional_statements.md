@@ -49,6 +49,7 @@ else:
 ```
 
 :warning:TODO картинка
+![рисунок](images/u4_img1.png)
 
 ---
 
