@@ -7,12 +7,12 @@
 Цикл `while` используется для повторения блока кода, пока условие истинно.
 
 Пример:
-\```python
+```python
 count = 0
 while count < 5:
     print("Count is", count)
     count += 1
-\```
+```
 
 В этом примере код внутри цикла будет выполняться, пока переменная `count` меньше 5.
 
@@ -22,7 +22,7 @@ while count < 5:
 - `continue` пропускает оставшуюся часть блока кода и переходит к следующей итерации цикла.
 
 Пример:
-\```python
+```python
 count = 0
 while count < 10:
     count += 1
@@ -31,7 +31,7 @@ while count < 10:
     elif count == 8:
         break
     print("Count is", count)
-\```
+```
 
 ---
 
