@@ -46,8 +46,13 @@ print(is_equal)  # Результат: False
 
 is_not_equal = a != b  # Не равно
 print(is_not_equal)  # Результат: True
+
+is_greater_or_equal = a >= b  # Больше или равно
+print(is_greater_or_equal)  # Результат: True
+
+is_less_or_equal = a <= b  # Меньше или равно
+print(is_less_or_equal)  # Результат: False
 ```
-:warning: TODO добавить >=
 
 ---
 
