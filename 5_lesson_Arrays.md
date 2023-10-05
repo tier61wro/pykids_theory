@@ -2,47 +2,47 @@
 
 ## Индекс массива
 
-\```python
+```python
 fruits = ["apple", "banana", "cherry"]
 print(fruits[0])  # Результат: apple
-\```
+```
 
 ### Получение последнего элемента массива
 
 Чтобы получить последний элемент массива, вы можете использовать индекс `-1`.
 
 Пример:
-\```python
+```python
 fruits = ["apple", "banana", "cherry"]
 print(fruits[-1])  # Результат: cherry
-\```
+```
 
 ## Срез
 
-\```python
+```python
 fruits = ["apple", "banana", "cherry", "date"]
 print(fruits[1:3])  # Результат: ['banana', 'cherry']
-\```
+```
 
 ## Цикл for
 
 ### Проход по элементам массива
 
-\```python
+```python
 fruits = ["apple", "banana", "cherry"]
 
 for fruit in fruits:
     print(fruit)
-\```
+```
 
 ### Проход по индексам массива
 
-\```python
+```python
 fruits = ["apple", "banana", "cherry"]
 
 for i in range(len(fruits)):
     print(f"Фрукт под индексом {i} - это {fruits[i]}")
-\```
+```
 
 ---
 
