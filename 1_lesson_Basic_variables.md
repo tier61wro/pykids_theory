@@ -5,7 +5,8 @@
 ## Вывод информации на экран
 
 Для вывода информации на экран в Python используется функция `print()`.
-Мы уже использовали ее в предыдущем уроке 
+Мы уже использовали ее в предыдущем уроке
+
 :warning:TODO расписать тут что происходит внутри принт и акцентировать внимание на том что нет пробела между print и скобками
 
 Пример:
@@ -53,10 +54,10 @@ surname = "Петрова"
 ```python
 my_string = 'abc 123'
 another_str = "new one"
-super_str = '''First line here
-And another here'''
-big_text = """An original net animation, known in Japan as web anime, is an animation that is directly released onto the Internet. ONAs may also have been aired on television if they were first directly
- released on the Internet."""
+super_str = '''Первая строка тут
+Вторая строка тут'''
+big_text = """Тут у нас очень длинный текст
+который никогда не поместится на одну строку"""
 ```
 
 ### Числа (int)
