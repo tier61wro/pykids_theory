@@ -33,6 +33,7 @@ while count < 10:
         break
     print("Count is", count)
 ```
+⚠️ разделить пример на два отдельно break отдельно continue
 
 ---
 
