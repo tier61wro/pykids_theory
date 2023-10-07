@@ -26,7 +26,7 @@ while count < 5:
 ```python
 count = 0
 while count < 10:
-    count += 1
+    count = count + 1
     if count == 5:
         continue
     elif count == 8:
