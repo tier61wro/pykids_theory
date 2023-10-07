@@ -43,6 +43,7 @@ print(toys_train[-1])  # Результат: собака
 toys_train = ["медведь", "заяц", "собака", "кошка"]
 print(toys_train[1:3])  # Результат: ['заяц', 'собака']
 ```
+:warning: TODO len(l)
 
 ## Цикл for
 
