@@ -67,6 +67,7 @@ for i in range(len(toys_train)):
 
 ```
 
+:warning: TODO СЮДА ПЕРЕНОСИМ TUPLE
 ---
 
 ## Задания к уроку 5: Массивы
