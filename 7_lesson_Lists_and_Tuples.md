@@ -28,8 +28,9 @@ fruits.remove("banana")
 fruits.sort()
 ```
 
-⚠️ рассказать про reverse, insert (вставка со сдвигом)
- b = l.copy()
+⚠️ рассказать про reverse  
+insert (вставка со сдвигом)  
+ b = l.copy()  
  unsorted.sort( reverse=True )
 
 
