@@ -28,6 +28,14 @@ fruits.remove("banana")
 fruits.sort()
 ```
 
+⚠️ рассказать про reverse, insert (вставка со сдвигом)
+ b = l.copy()
+ unsorted.sort( reverse=True )
+
+
+
+
+
 ## Кортежи и их особенности
 
 Кортеж похож на список, но, в отличие от списка, кортеж неизменяем.
