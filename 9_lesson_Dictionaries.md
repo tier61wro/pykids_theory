@@ -58,10 +58,17 @@ del my_dict["Банан"]
 
 Мы можем пройтись по всему словарю и посмотреть, что у нас есть!
 
+```
+for key in new_dict:  ##.keys()
+    print(key, new_dict[key])
+```
+
 ```python
 for key, value in my_dict.items():
     print(f"{key} это {value}")
 ```
+
+
 
 ---
 
