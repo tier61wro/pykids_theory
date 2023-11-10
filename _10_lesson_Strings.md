@@ -3,7 +3,7 @@
 
 ⚠️
 TODO
-{code}
+```
 ## super string for large text fields
 super_srt = '''First line here
 And another here'''
@@ -61,4 +61,4 @@ name = 'Vasya'
 ## user input: 
 #some_input = input()
 #print( some_input.upper() )
-{code}
+```
