@@ -2,6 +2,18 @@
 
 ```
 class Student():
+    def __init__(self, name, surname):
+        self.name = name
+        self.surname = surname
+
+jan = Student( 'Jan', 'Kowalski' )
+anna = Student( 'Anna', 'Mroczek' )
+jan.name
+anna.surname
+```
+----
+```
+class Student():
     student_counter = 0
     def __init__(self, name, surname):
         self.name = name
