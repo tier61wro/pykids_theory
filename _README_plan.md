@@ -75,3 +75,16 @@
     Импортирование модулей и использование функций из них
     Создание собственных модулей и пакетов
     Использование сторонних библиотек и модулей
+
+```python
+#import math
+#print( math.sin(2), math.sin( math.pi/2 ) )
+
+#from math import sin, pi, factorial
+#print( factorial(4) )
+#print( sin(pi/4) )
+## ! print( cos(2) )
+
+#import math as mt     ## numpy as np, matplotlib.pyplot as plt, pandas as pd
+```
+
