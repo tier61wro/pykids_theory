@@ -12,7 +12,7 @@ jan.name
 anna.surname
 ```
 ----
-```
+```python
 class Student():
     student_counter = 0
     def __init__(self, name, surname):
