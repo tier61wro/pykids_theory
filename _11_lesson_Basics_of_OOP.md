@@ -13,6 +13,22 @@ anna.surname
 ```
 ----
 ```python
+
+class Student():
+    def __init__(self, name, surname):
+        self.name = name
+        self.surname = surname
+    def zapisy(self, subject):
+        print( f"student {self.name}, {self.surname} zostal zapisany na kurs: {subject}" )
+
+jan = Student( 'Jan', 'Kowalski' )
+jan.zapisy('math')
+
+anna = Student( 'Anna', 'Mroczek' )
+anna.zapisy('english')
+```
+----
+```python
 class Student():
     student_counter = 0
     def __init__(self, name, surname):
