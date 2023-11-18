@@ -60,9 +60,28 @@
 
 12. Работа с файлами
 
-    Открытие и закрытие файлов
-    Чтение из файлов и запись в файлы
+    Открытие и закрытие файлов (open и через with)
+    Чтение из файлов и запись в файлы (readlines(), read(), write())
     Работа с файлами в разных режимах (текстовый, бинарный)
+
+```python
+with open('data/my_data', mode='r+') as my_file:
+    #print( dir(my_file))
+    print(my_file)
+    data = my_file.read()
+
+    #data = my_file.readline()
+    #print( data )
+    #data = my_file.readline()
+    #print( data )
+
+    #my_file.seek(0)  ## symbol index
+    #data = my_file.readlines()
+    #print( data )
+    #my_file.write(data.title())
+```
+
+
 
 13. Исключения и обработка ошибок
 
