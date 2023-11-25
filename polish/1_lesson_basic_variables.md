@@ -12,4 +12,8 @@ Przykład:
 
 ```python
 print("Hello, World!")
+```
+Gdy uruchomisz ten kod, na ekranie wyświetli się "Hello, World!".
 
+# Deklarowanie zmiennych
+Zmienna to sposób na przechowywanie danych, które mogą być wykorzystane później. Dla uproszczenia możemy traktować zmienną jako "pudełko", w którym przechowujemy wartości. Aby przypisać wartość do zmiennej, używamy instrukcji przypisania. Najpierw piszemy nazwę zmiennej, potem znak równości =, który jest operatorem przypisania, a następnie wartość, którą chcemy zapisać.
