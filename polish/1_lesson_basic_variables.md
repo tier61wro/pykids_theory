@@ -40,8 +40,8 @@ Teraz spróbujmy zapisać w zmiennej tekst, a nie liczbę.
 Przykład:
 
 ```python
-name = "Anna"
-surname = "Pietrowa"
+name = "Jan"
+surname = "Kowalski"
 ```
 
 W tym przykładzie stworzyliśmy zmienną o nazwie `name` i przypisaliśmy jej wartość "Anna", oraz zmienną o nazwie `surname` i przypisaliśmy jej wartość "Pietrowa".
