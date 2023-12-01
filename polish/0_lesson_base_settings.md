@@ -6,10 +6,22 @@ Python to super język programowania dla początkujących, który jest bardzo po
 # Instrukcja pisania pierwszego programu w Pythonie na Replit
 :warning: Uczymy się języka Python3, ponieważ pozostałe wersje tego języka są już przestarzałe i nie są wspierane.
 
+## Krok 0: Rejestracja na Gihub
+GitHub to jak wielki internetowy pokój, gdzie programiści mogą przechowywać swoje kody do projektów i dzielić się nimi z innymi. 
+Wyobraź sobie, że tworzysz coś z klocków LEGO i chcesz, aby Twoi przyjaciele też mogli dodawać swoje klocki lub zmieniać coś w Twojej konstrukcji. 
+GitHub pozwala wielu osobom pracować razem nad tymi samymi projektami, nawet jeśli są daleko od siebie.
+
+Kiedy tworzysz coś w komputerze, na przykład grę lub aplikację, piszesz coś, co nazywamy kodem. 
+Kod to jak przepis kulinarny, ale zamiast ciastek czy naleśników, tworzysz programy. 
+GitHub jest jak książka z przepisami, gdzie każdy może dodać swój przepis (kod) albo poprawić przepisy innych, żeby były jeszcze lepsze.
+
+GitHub używa czegoś, co nazywa się "Git" - to narzędzie, które pomaga śledzić wszystkie zmiany, które ludzie robią w kodzie. Dzięki temu, jeśli coś pójdzie nie tak, zawsze możesz wrócić do wersji, która działała dobrze, jak do punktu zapisu w grze wideo.
+
+
 ## Krok 1: Rejestracja na Replit
 1. Wejdź na stronę [Replit](https://replit.com/).
 2. Kliknij przycisk "Sign up" (Zarejestruj się) w prawym górnym rogu strony.
-3. Wypełnij wszystkie potrzebne pola lub zarejestruj się za pomocą Google, GitHub lub Facebook.
+3. Wypełnij wszystkie potrzebne pola lub zarejestruj się za pomocą Google, GitHub.
 4. Potwierdź swój adres e-mail, jeśli zostaniesz o to poproszony.
 
 ## Krok 2: Tworzenie nowego projektu
