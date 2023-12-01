@@ -7,7 +7,8 @@ W tej lekcji przyjrzymy się podstawom pracy ze zmiennymi w Pythonie. Zmienne to
 Do wyświetlania informacji na ekranie w Pythonie służy funkcja `print()`.
 Już użyliśmy jej w poprzedniej lekcji.
 
-:warning:TODO wyjaśnić, co dzieje się wewnątrz funkcji `print()` i zwrócić uwagę, że nie ma spacji między `print` a nawiasami.
+Funkcja `print()` służy do wyświetlania informacji na ekranie. Kiedy wpisujemy `print("Hello, World!")`, mówimy Pythonowi: "Hej, wydrukuj na ekranie te słowa między cudzysłowami". Ważne jest, aby pamiętać, że nie ma spacji między nazwą funkcji `print` a nawiasem otwierającym - są one zawsze zapisywane razem, bezpośrednio jeden za drugim. To tak, jakbyś mówił do przyjaciela "powiedz to", a nie "powiedz... to" - słowo i nawias muszą iść razem, aby Python zrozumiał, że chcesz coś wydrukować.
+
 
 Przykład:
 
