@@ -1,3 +1,8 @@
+## Dlaczego warto uczyć się Pythona?
+
+Python to super język programowania dla początkujących, który jest bardzo popularny na całym świecie. Jest prosty do zrozumienia, jakbyś pisał zwykłe zdania po polsku, a przy tym jest bardzo mocny – możesz za jego pomocą robić gry, programy, a nawet sterować robotami! Python jest jak magiczny wężyk, który pomaga tworzyć nowe, niesamowite rzeczy w komputerze. Dlatego warto go poznać i nauczyć się nim posługiwać. Kto wie, może kiedyś dzięki Pythonowi stworzysz coś, co zmieni świat!
+
+
 # Instrukcja pisania pierwszego programu w Pythonie na Replit
 :warning: Uczymy się języka Python3, ponieważ pozostałe wersje tego języka są już przestarzałe i nie są wspierane.
 
@@ -29,6 +34,4 @@ Hello, World!
 
 **Gratulacje!** Właśnie napisałeś i uruchomiłeś swoją pierwszą program w Pythonie na Replit!
 
-## Dlaczego warto uczyć się Pythona?
 
-Python to super język programowania dla początkujących, który jest bardzo popularny na całym świecie. Jest prosty do zrozumienia, jakbyś pisał zwykłe zdania po polsku, a przy tym jest bardzo mocny – możesz za jego pomocą robić gry, programy, a nawet sterować robotami! Python jest jak magiczny wężyk, który pomaga tworzyć nowe, niesamowite rzeczy w komputerze. Dlatego warto go poznać i nauczyć się nim posługiwać. Kto wie, może kiedyś dzięki Pythonowi stworzysz coś, co zmieni świat!
