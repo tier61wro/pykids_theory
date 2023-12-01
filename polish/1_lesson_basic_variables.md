@@ -11,9 +11,9 @@ Już użyliśmy jej w poprzedniej lekcji.
 
 Przykład:
 
-\```python
+```python
 print("Hello, World!")
-\```
+```
 
 Kiedy uruchomisz ten kod, na ekranie pojawi się tekst "Hello, World!".
 
@@ -27,9 +27,9 @@ Wpisz nazwę zmiennej, potem znak równości (=), który nazywamy operatorem
 przypisania, a na końcu wartość. Na przykład, wpisz w interaktywnej konsoli
 następującą komendę:
 
-\```python
+```python
 spam = 15
-\```
+```
 
 ![obrazek1](images/u1_img1.png)
 
@@ -38,10 +38,10 @@ spam = 15
 Teraz spróbujmy zapisać w zmiennej tekst, a nie liczbę.
 Przykład:
 
-\```python
+```python
 name = "Anna"
 surname = "Pietrowa"
-\```
+```
 
 W tym przykładzie stworzyliśmy zmienną o nazwie `name` i przypisaliśmy jej wartość "Anna", oraz zmienną o nazwie `surname` i przypisaliśmy jej wartość "Pietrowa".
 
@@ -90,14 +90,14 @@ W Pythonie mamy kilka podstawowych typów danych:
 
 Przykłady:
 
-\```python
+```python
 my_string = 'abc 123'
 another_str = "nowa"
 super_str = '''Pierwszy wiersz
 Drugi wiersz'''
 big_text = """Tutaj mamy bardzo długi tekst
 który nigdy nie zmieści się w jednej linii"""
-\```
+```
 
 ### Liczby całkowite (int)
 
@@ -105,9 +105,9 @@ To są liczby bez części dziesiętnej.
 
 Przykład:
 
-\```python
+```python
 age = 10
-\```
+```
 
 ### Liczby zmiennoprzecinkowe (float)
 
@@ -115,9 +115,9 @@ To liczby, które mają część dziesiętną.
 
 Przykład:
 
-\```python
+```python
 weight = 45.5
-\```
+```
 :warning: TODO zwrócić uwagę na to, że używamy kropki, a nie przecinka.
 
 ### Wartości logiczne
@@ -126,16 +126,16 @@ To proste wartości, które mogą być albo `True` (prawda), albo `False` (fałs
 
 Przykład:
 
-\```python
+```python
 has_homework = True
-\```
+```
 
 :warning: TODO wyjaśnić, że funkcja `print` może przyjmować wiele argumentów.
 
-\```python
+```python
 print("Cześć", name)
 Cześć Anna
-\```
+```
 
 :question: Możliwe, że należy podzielić tę lekcję na dwie części: zmienne tekstowe i inne typy zmiennych.
 
