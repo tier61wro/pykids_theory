@@ -44,7 +44,7 @@ name = "Jan"
 surname = "Kowalski"
 ```
 
-W tym przykładzie stworzyliśmy zmienną o nazwie `name` i przypisaliśmy jej wartość "Anna", oraz zmienną o nazwie `surname` i przypisaliśmy jej wartość "Pietrowa".
+W tym przykładzie stworzyliśmy zmienną o nazwie `name` i przypisaliśmy jej wartość "Jan", oraz zmienną o nazwie `surname` i przypisaliśmy jej wartość "Kowalski".
 
 Używamy liter alfabetu angielskiego dla nazw zmiennych, co pozwala na stworzenie uniwersalnego języka dla programistów na całym świecie.
 Zawartość zmiennej może być w dowolnym języku.
