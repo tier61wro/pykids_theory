@@ -10,10 +10,10 @@ To funkcja jest jak "magiczne okulary", które pozwalają nam zobaczyć, z czego
 Gdy patrzymy na zmienną przez te okulary (czyli używamy funkcji type()), możemy dowiedzieć się, czy zmienna jest tekstem,
 liczbą, listą czy czymś innym. Pomaga to zrozumieć, co możemy zrobić z tą zmienną i jak z nią pracować.
 
-\```python
+```python
 name = 'Sasha'
 print(type(name))  # <class 'str'>
-\```
+```
 
 Patrzymy na nazwę typu, który type() zwraca w cudzysłowach, dla zmiennej **name** otrzymaliśmy **str**.
 
@@ -23,7 +23,7 @@ Czasami potrzebujemy zmienić typ danych. Na przykład, przekształcić tekst na
 
 Przykłady:
 
-\```python
+```python
 number_str = "123"
 print(type(number_str))  # <class 'str'>
 number_int = int(number_str)
@@ -31,7 +31,7 @@ print(type(number_int))  # <class 'int'>
 
 text = str(456)
 print(type(text))  # <class 'str'>
-\```
+```
 
 W pierwszym przykładzie przekształciliśmy tekst "123" na liczbę 123, a w drugim przykładzie przekształciliśmy liczbę 456 na tekst "456".
 
@@ -41,10 +41,10 @@ Funkcja `input()` umożliwia otrzymywanie danych od użytkownika. Gdy program si
 
 Przykład:
 
-\```python
+```python
 name = input("Wprowadź swoje imię: ")
 print("Cześć", name)
-\```
+```
 
 W tym przykładzie program poprosi Cię o wprowadzenie imienia, a następnie przywita Cię.
 
