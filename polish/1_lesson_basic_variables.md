@@ -167,4 +167,4 @@ Cześć Anna
    - Wyświetl różnicę między bieżącym rokiem a rokiem swojego urodzenia.
 
 3. **Liczby zmiennoprzecinkowe (float)**:
-   - Utwórz zmienną `height` i przypisz jej swój wz
+   - Utwórz zmienną `height` i przypisz jej swój wzrost
