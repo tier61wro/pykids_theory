@@ -168,3 +168,34 @@ Cześć Anna
 
 3. **Liczby zmiennoprzecinkowe (float)**:
    - Utwórz zmienną `height` i przypisz jej swój wzrost
+  
+   
+Oczywiście, oto opis zadania po polsku:
+
+---
+### Zadanie 4: Rozpoznawanie Poprawnych Nazw Zmiennych w Pythonie
+
+Spójrz na poniższą listę zmiennych i zdecyduj, które z nich są prawidłowe, a które nie:
+
+1. `user_id`
+2. `123score`
+3. `average_height`
+4. `total-score`
+5. `MaxScore`
+6. `email_address`
+7. `isActive`
+8. `player_name`
+9. `temperature`
+10. `user@id`
+11. `car_speed`
+12. `print`
+13. `final result`
+14. `total_games`
+15. `email.address`
+16. `user name`
+17. `is_active`
+18. `Temperature!`
+19. `max_score`
+20. `final_result`
+
+Twoim zadaniem jest przeanalizować każdą zmienną i zdecydować, czy jest ona napisana zgodnie z zasadami nazewnictwa zmiennych w Pythonie, czy też nie. Pamiętaj, że poprawne nazwy zmiennych nie powinny zaczynać się od cyfr, zawierać spacji czy znaków specjalnych, a także nie mogą być słowami zarezerwowanymi w Pythonie.
