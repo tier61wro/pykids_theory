@@ -8,7 +8,7 @@ Python oferuje podstawowe operacje arytmetyczne, które pozwalają na wykonywani
 
 Przykłady:
 
-\```python
+```python
 a = 10
 b = 5
 
@@ -23,7 +23,7 @@ print(mult_result)  # Wynik: 50
 
 div_result = a / b  # Dzielenie
 print(div_result)  # Wynik: 2.0
-\```
+```
 
 :warning: TODO Potęgowanie?
 
@@ -33,7 +33,7 @@ Operacje porównania pozwalają na porównywanie wartości i otrzymywanie wyniku
 
 Przykłady:
 
-\```python
+```python
 a = 10
 b = 5
 
@@ -54,7 +54,7 @@ print(is_greater_or_equal)  # Wynik: True
 
 is_less_or_equal = a <= b  # Mniejsze lub równe
 print(is_less_or_equal)  # Wynik: False
-\```
+```
 
 ---
 
