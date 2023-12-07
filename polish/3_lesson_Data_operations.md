@@ -23,9 +23,10 @@ print(mult_result)  # Wynik: 50
 
 div_result = a / b  # Dzielenie
 print(div_result)  # Wynik: 2.0
+
+power = a ** b
 ```
 
-:warning: TODO Potęgowanie?
 
 ## Operacje porównania
 
