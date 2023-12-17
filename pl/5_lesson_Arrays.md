@@ -4,11 +4,11 @@ W świecie programowania taki pociąg nazywamy Listem!
 
 - 🚃 **Wagon** - to jak "komórka" do przechowywania czegoś jednego (w naszym przypadku, zabawki). W programowaniu nazywamy to "elementem listy".
   
-- 🏷️ **Numer wagonu** - to sposób, w jaki możemy znaleźć i wybrać konkretny wagon (lub zabawkę wewnątrz). W programowaniu nazywa się to "indeksem" elementu tablicy.
+- 🏷️ **Numer wagonu** - to sposób, w jaki możemy znaleźć i wybrać konkretny wagon (lub zabawkę wewnątrz). W programowaniu nazywa się to "indeksem" elementu listy.
 
-- 🧸 **Zabawka w wagonie** - to informacja lub "dane", które przechowujemy w każdym wagonie (lub w każdym elemencie tablicy).
+- 🧸 **Zabawka w wagonie** - to informacja lub "dane", które przechowujemy w każdym wagonie (lub w każdym elemencie listy).
 
-Tak więc, jeśli chcesz znaleźć, na przykład, pluszowego misia w pociągu, po prostu sprawdzasz każdy wagonik po kolei, aż go znajdziesz. W programowaniu robimy to samo, używając indeksów, aby szybko znaleźć dane w tablicy!
+Tak więc, jeśli chcesz znaleźć, na przykład, pluszowego misia w pociągu, po prostu sprawdzasz każdy wagonik po kolei, aż go znajdziesz. W programowaniu robimy to samo, używając indeksów, aby szybko znaleźć dane w liste!
 
 :warning: Numeracja wagonów zaczyna się od 0!
 
