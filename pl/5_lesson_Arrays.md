@@ -2,7 +2,7 @@
 Wyobraź sobie, że masz długi pociąg z wieloma wagonami, a w każdym wagonie może podróżować jedna zabawka.
 W świecie programowania taki pociąg nazywamy Listem!
 
-- 🚃 **Wagon** - to jak "komórka" do przechowywania czegoś jednego (w naszym przypadku, zabawki). W programowaniu nazywamy to "elementem tablicy".
+- 🚃 **Wagon** - to jak "komórka" do przechowywania czegoś jednego (w naszym przypadku, zabawki). W programowaniu nazywamy to "elementem listy".
   
 - 🏷️ **Numer wagonu** - to sposób, w jaki możemy znaleźć i wybrać konkretny wagon (lub zabawkę wewnątrz). W programowaniu nazywa się to "indeksem" elementu tablicy.
 
