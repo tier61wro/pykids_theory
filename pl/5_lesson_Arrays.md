@@ -83,7 +83,7 @@ for i in range(len(toys_train)):
 
 ### Zadanie 3: Pętla for
 
-1. Stwórz tablicę z 4 różnymi kolorami.
+1. Stwórz listy z 4 różnymi kolorami.
 2. Używając pętli `for`, wyświetl każdy kolor w nowej linii z dodatkiem tekstu: "Mój ulubiony kolor to {kolor}".
 
 ### Zadanie 4: Pętla for z indeksami
