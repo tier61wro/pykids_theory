@@ -20,11 +20,11 @@ toys_train = ["miś", "zając", "pies", "kot"]
 
 ## Indeks tablicy
 
-\```python
+```python
 toys_train = ["miś", "zając", "pies", "kot"]
 print(toys_train[0])  # Wydrukuje: miś
 print(toys_train[1])  # Wydrukuje: zając
-\```
+```
 
 ### Pobieranie ostatniego elementu tablicy
 
@@ -32,40 +32,40 @@ Aby dowiedzieć się, jaka zabawka jedzie w ostatnim wagonie, możemy użyć ind
 
 Przykład:
 
-\```python
+```python
 toys_train = ["miś", "zając", "pies", "kot"]
 print(toys_train[-1])  # Wynik: kot
-\```
+```
 :warning: TODO mówić o -2 w analogii do -1
 
 ## Wycinek
 Jeśli chcemy wiedzieć, jakie zabawki jadą, na przykład, w drugim i trzecim wagonie, możemy użyć wycinka.
 
-\```python
+```python
 toys_train = ["miś", "zając", "pies", "kot"]
 print(toys_train[1:3])  # Wynik: ['zając', 'pies']
-\```
+```
 :warning: TODO len(l)
 
 ## Pętla for
 
 ### Przejście przez elementy tablicy
 
-\```python
+```python
 toys_train = ["miś", "zając", "pies"]
 
 for toy in toys_train:
     print(toy)
-\```
+```
 
 ### Przejście przez indeksy tablicy
 
-\```python
+```python
 toys_train = ["miś", "zając", "pies", "kot"]
 
 for i in range(len(toys_train)):
     print(f"Zabawka w wagonie numer {i} to {toys_train[i]}")
-\```
+```
 
 :warning: TODO PRZENIEŚĆ TUTAJ TUPLE
 ---
