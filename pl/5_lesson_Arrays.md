@@ -1,5 +1,4 @@
 # Lekcja 5: Lists
-:warning: TODO Przerobić wszystko na List i listę.
 Wyobraź sobie, że masz długi pociąg z wieloma wagonami, a w każdym wagonie może podróżować jedna zabawka.
 W świecie programowania taki pociąg nazywamy tablicą!
 
