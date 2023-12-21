@@ -39,7 +39,7 @@ unsorted.sort(reverse=True)
 
 ## tuples i ich cechy
 
-Krotka jest podobna do listy, ale w przeciwieństwie do listy, krotka jest niezmienna.
+Tuple jest podobny do listy, ale w przeciwieństwie do listy, tuple jest niezmienna.
 
 Przykład:
 
