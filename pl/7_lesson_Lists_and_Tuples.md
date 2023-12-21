@@ -39,7 +39,7 @@ unsorted.sort(reverse=True)
 
 ## tuples i ich cechy
 
-Tuple jest podobny do listy, ale w przeciwieństwie do listy, tuple jest niezmienna.
+Tuple jest podobny do listy, ale w przeciwieństwie do listy, tuple jest niezmienny.
 
 Przykład:
 
@@ -47,7 +47,7 @@ Przykład:
 colors = ("czerwony", "zielony", "niebieski")
 print(colors[1])  # wydrukuje: zielony
 ```
-jeśli spróbujemy dodać element do krotki - otrzymamy błąd.
+jeśli spróbujemy dodać element do tuple - otrzymamy błąd.
 
 ---
 
