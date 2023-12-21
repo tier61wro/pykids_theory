@@ -1,4 +1,4 @@
-# Lekcja 7: Operacje na listach i krotkach
+# Lekcja 7: Operacje na listach i tuplach
 
 W tej lekcji przyjrzymy się pracy z listami i krotkami w Pythonie oraz podstawowym operacjom, które można na nich wykonywać.
 
@@ -37,7 +37,7 @@ unsorted.sort(reverse=True)
 
 
 
-## Krotki i ich cechy
+## tuples i ich cechy
 
 Krotka jest podobna do listy, ale w przeciwieństwie do listy, krotka jest niezmienna.
 
@@ -51,7 +51,7 @@ jeśli spróbujemy dodać element do krotki - otrzymamy błąd.
 
 ---
 
-## Zadania do lekcji 7: Listy i krotki
+## Zadania do lekcji 7: Listy i tuples
 
 ### Zadanie 1: Praca z listami
 
@@ -65,8 +65,8 @@ jeśli spróbujemy dodać element do krotki - otrzymamy błąd.
 2. Posortuj listę i wyświetl ją na ekranie.
 3. Usuń pierwszą liczbę z listy i ponownie wyświetl listę na ekranie.
 
-### Zadanie 3: Praca z krotkami
+### Zadanie 3: Praca z tuples
 
-1. Stwórz krotkę `cities` i dodaj do niej kilka nazw miast.
-2. Wyświetl na ekranie ostatnie miasto z krotki.
-3. Spróbuj zmienić wartość jednego z miast w krotce (to powinno spowodować błąd).
+1. Stwórz tuple `cities` i dodaj do niej kilka nazw miast.
+2. Wyświetl na ekranie ostatnie miasto z tuple.
+3. Spróbuj zmienić wartość jednego z miast w tuple (to powinno spowodować błąd).
