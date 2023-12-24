@@ -1,6 +1,6 @@
 # Lekcja 5: Lists
 Wyobraź sobie, że masz długi pociąg z wieloma wagonami, a w każdym wagonie może podróżować jedna zabawka.
-W świecie programowania taki pociąg nazywamy Listom!
+W świecie programowania taki pociąg nazywamy Listą!
 
 - 🚃 **Wagon** - to jak "komórka" do przechowywania czegoś jednego (w naszym przypadku, zabawki). W programowaniu nazywamy to "elementem listy".
   
