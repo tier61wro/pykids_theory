@@ -43,9 +43,9 @@ while count < 10:
 
 ### Zadanie 1: Pętla while
 
-1. Stwórz zmienną `number` i przypisz jej wartość 10.
+1. Stwórz zmienną `number` i przypisz jej wartość 15.
 2. Używając pętli `while`, zmniejszaj wartość `number` o 1 przy każdej iteracji i wyświetlaj ją na ekranie.
-3. Zatrzymaj pętlę, gdy `number` stanie się mniejsze niż 1.
+3. Zatrzymaj pętlę, gdy `number` stanie się mniejsze niż 0.
 
 ### Zadanie 2: Operatory kontroli pętli
 
