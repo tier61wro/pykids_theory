@@ -17,7 +17,7 @@ Tak więc, jeśli chcesz znaleźć, na przykład, pluszowego misia w pociągu, p
 toys_train = ["miś", "zając", "pies", "kot"]
                               -4                -3              -2               -1
 
-## Indeks tablicy
+## Indeks listy
 
 ```python
 toys_train = ["miś", "zając", "pies", "kot"]
@@ -25,7 +25,7 @@ print(toys_train[0])  # Wydrukuje: miś
 print(toys_train[1])  # Wydrukuje: zając
 ```
 
-### Pobieranie ostatniego elementu tablicy
+### Pobieranie ostatniego elementu listy
 
 Aby dowiedzieć się, jaka zabawka jedzie w ostatnim wagonie, możemy użyć indeksu -1.
 
@@ -48,7 +48,7 @@ print(toys_train[1:3])  # Wynik: ['zając', 'pies']
 
 ## Pętla for
 
-### Przejście przez elementy tablicy
+### Przejście przez elementy listy
 
 ```python
 toys_train = ["miś", "zając", "pies"]
