@@ -57,7 +57,7 @@ for toy in toys_train:
     print(toy)
 ```
 
-### Przejście przez indeksy tablicy
+### Przejście przez indeksy listy
 
 ```python
 toys_train = ["miś", "zając", "pies", "kot"]
@@ -69,16 +69,16 @@ for i in range(len(toys_train)):
 :warning: TODO PRZENIEŚĆ TUTAJ TUPLE
 ---
 
-## Zadania do lekcji 5: Tablice
+## Zadania do lekcji 5: listy
 
-### Zadanie 1: Indeks tablicy
+### Zadanie 1: Indeks listy
 
-1. Stwórz tablicę z 5 różnymi owocami.
+1. Stwórz list z 5 różnymi owocami.
 2. Wyświetl na ekranie drugi, ostatni i przedostatni owoc z listy.
 
 ### Zadanie 2: Wycinek
 
-1. Stwórz tablicę z 7 różnymi zwierzętami.
+1. Stwórz list z 7 różnymi zwierzętami.
 2. Używając wycinka, wyświetl na ekranie zwierzęta od 3 do 5.
 
 ### Zadanie 3: Pętla for
@@ -88,5 +88,5 @@ for i in range(len(toys_train)):
 
 ### Zadanie 4: Pętla for z indeksami
 
-1. Stwórz tablicę z 3 różnymi warzywami.
-2. Używając pętli `for` i funkcji `range(len(...))`, wyświetl każde warzywo w nowej linii z podaniem jego indeksu w tablicy.
+1. Stwórz list z 3 różnymi warzywami.
+2. Używając pętli `for` i funkcji `range(len(...))`, wyświetl każde warzywo w nowej linii z podaniem jego indeksu w list.
