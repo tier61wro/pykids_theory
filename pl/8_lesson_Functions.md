@@ -1,4 +1,4 @@
-# Lekcja 9: Funkcje
+# Lekcja 8: Funkcje
 
 W tej lekcji porozmawiamy o funkcjach w Pythonie i dowiemy się, jak pomagają one w pisaniu kodu.
 
