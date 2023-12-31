@@ -68,7 +68,7 @@ Wywołaj ją.
 
 ### Zadanie 2: Przekazywanie parametrów
 
-1. Stwórz funkcję, która przyjmuje a i b jako parametry i wyświetla (a + b)/2.
+1. Stwórz funkcję count_average, która przyjmuje numbers a i b jako parametry i wyświetla (a + b)/2.
  Wywołaj ją.
 
 ### Zadanie 3: Zwracanie wartości
