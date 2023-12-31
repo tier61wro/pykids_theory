@@ -64,10 +64,12 @@ print(add(3, 4))  # Wynik: 7
 ### Zadanie 1: Tworzenie i wywoływanie funkcji
 
 1. Stwórz funkcję, która nazywa się count_square i drukuje kwadraty wszystkich liczb od 1 do 10.
+Wywołaj ją.
 
 ### Zadanie 2: Przekazywanie parametrów
 
 1. Stwórz funkcję, która przyjmuje a i b jako parametry i wyświetla (a + b)/2.
+ Wywołaj ją.
 
 ### Zadanie 3: Zwracanie wartości
 
