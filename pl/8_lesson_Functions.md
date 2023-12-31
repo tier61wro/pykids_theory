@@ -35,7 +35,7 @@ Przykład:
 
 ```python
 def greet(name):
-    print(f"Cześć, {name}!")
+    print("Cześć", name)
 
 # Wywołanie funkcji z parametrem
 greet("Ania")
