@@ -18,7 +18,7 @@ Kluczami słownika mogą być:
 
 1. Liczby całkowite (int): 
 ```python
-d = {0: 'jeden', 1: 'dwa', 2: 'trzy'}
+d = {1: 'jeden', 2: 'dwa', 3: 'trzy'}
 ```
 
 2. Ciągi znaków (str):
