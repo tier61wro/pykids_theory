@@ -1,6 +1,5 @@
 # Lekcja 9: Słowniki
 
-⚠️ zmienić kolejność z funkcjami
 Dzisiaj porozmawiamy o tak interesującym temacie, jak słowniki w Pythonie!
 
 ## Co to jest słownik i jak go używać?
