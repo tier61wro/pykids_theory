@@ -6,7 +6,7 @@ Python to super język programowania dla początkujących, który jest bardzo po
 # Instrukcja pisania pierwszego programu w Pythonie na Replit
 :warning: Uczymy się języka Python3, ponieważ pozostałe wersje tego języka są już przestarzałe i nie są wspierane.
 
-## Krok 0: Rejestracja na Gihub
+## Krok 0: Rejestracja na Github
 GitHub to jak wielki internetowy pokój, gdzie programiści mogą przechowywać swoje kody do projektów i dzielić się nimi z innymi. 
 Wyobraź sobie, że tworzysz coś z klocków LEGO i chcesz, aby Twoi przyjaciele też mogli dodawać swoje klocki lub zmieniać coś w Twojej konstrukcji. 
 GitHub pozwala wielu osobom pracować razem nad tymi samymi projektami, nawet jeśli są daleko od siebie.
