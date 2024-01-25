@@ -29,7 +29,6 @@ jan.surname = 'Kowalski'
 anna = Student()
 anna.name = 'Anna'
 anna.surname = 'Mrozek'
-anna = Student()
 ```
 
 
