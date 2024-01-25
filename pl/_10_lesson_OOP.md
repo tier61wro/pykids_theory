@@ -13,9 +13,8 @@ Przykład klasy `Student`:
 
 ```python
 class Student():
-    def __init__(self, name, surname):
-        self.name = name
-        self.surname = surname
+    name = 'some_name'
+    surname = 'some_surname'
 ```
 
 #### Tworzenie obiektów:
@@ -24,9 +23,16 @@ Obiekt to konkretna instancja klasy.
 Przykład tworzenia obiektów `Student`:
 
 ```python
-jan = Student('Jan', 'Kowalski')
-anna = Student('Anna', 'Mroczek')
+jan = Student()
+jan.name = 'Jan'
+jan.surname = 'Kowalski'
+anna = Student()
+anna.name = 'Anna'
+anna.surname = 'Mrozek'
+anna = Student()
 ```
+
+
 
 #### Atrybuty i metody:
 Atrybuty to zmienne wewnątrz klasy. Metody to funkcje zdefiniowane wewnątrz klasy.
@@ -38,10 +44,22 @@ print(jan.name)       # Wyświetli "Jan"
 print(anna.surname)   # Wyświetli "Mroczek"
 ```
 
+#### __init__()
+Tutaj name i surname są stałymi atrybutami klasy, takimi samymi dla każdego obiektu klasy Student.
+```python
+class Student():
+    def __init__(self, name, surname):
+        self.name = name
+        self.surname = surname
+```
+W tym przypadku __init__ przyjmuje parametry name i surname, które stają się indywidualnymi atrybutami dla każdego stworzonego obiektu klasy Student.
+Kiedy tworzymy obiekty klasy Student, przekazujemy im różne imiona i nazwiska:
+```python
+jan = Student('Jan', 'Kowalski')
+anna = Student('Anna', 'Mroczek')
+```
+
 #### Zadania:
 1. **Stwórz klasę i obiekty**: Wykorzystaj powyższy kod do stworzenia własnej klasy i obiektów.
 2. **Dodaj metodę do klasy**: Napisz metodę w klasie `Student`, która wyświetla pełne imię i nazwisko studenta.
 3. **Zmodyfikuj obiekty**: Zmień atrybuty istniejących obiektów i wyświetl wyniki.
-
-#### Podsumowanie:
-Programowanie obiektowe to potężne narzędzie, które sprawia, że kod jest bardziej zorganizowany i łatwiejszy w zarządzaniu. Ta lekcja stanowi wprowadzenie do tworzenia własnych klas i obiektów w Pythonie.
