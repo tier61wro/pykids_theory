@@ -41,7 +41,7 @@ Przykład dostępu do atrybutów:
 
 ```python
 print(jan.name)       # Wyświetli "Jan"
-print(anna.surname)   # Wyświetli "Mroczek"
+print(anna.surname)   # Wyświetli "Mrozek"
 ```
 
 #### __init__()
@@ -56,7 +56,7 @@ W tym przypadku __init__ przyjmuje parametry name i surname, które stają się 
 Kiedy tworzymy obiekty klasy Student, przekazujemy im różne imiona i nazwiska:
 ```python
 jan = Student('Jan', 'Kowalski')
-anna = Student('Anna', 'Mroczek')
+anna = Student('Anna', 'Mrozek')
 ```
 
 #### Zadania:
