@@ -45,7 +45,7 @@ print(anna.surname)   # Wyświetli "Mroczek"
 ```
 
 #### __init__()
-Tutaj name i surname są stałymi atrybutami klasy, takimi samymi dla każdego obiektu klasy Student.
+W klase wyżej,  name i surname są stałymi atrybutami klasy, takimi samymi dla każdego obiektu klasy Student, poki my ich nie zmienim
 ```python
 class Student():
     def __init__(self, name, surname):
