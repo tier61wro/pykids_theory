@@ -6,7 +6,7 @@ Zrozumienie zaawansowanych pojęć OOP: dziedziczenie, enkapsulacja i polimorfiz
 #### Opis lekcji:
 Poznajemy bardziej zaawansowane aspekty programowania obiektowego na przykładzie klas `Student` i `Human`.
 
-#### Dziedziczenie:
+#### Dziedziczenie (Inheritance):
 Dziedziczenie umożliwia tworzenie nowych klas na bazie istniejących.
 
 ```python
@@ -23,7 +23,7 @@ class Student(Human):
 
 Klasa `Student` dziedziczy po klasie `Human` i dodaje nowy atrybut `student_id`.
 
-#### Enkapsulacja:
+#### Enkapsulacja (Encapsulation):
 Enkapsulacja chroni dane wewnątrz klasy, udostępniając publiczny interfejs.
 
 ```python
@@ -38,7 +38,7 @@ class Human():
 
 Atrybut `_age` jest prywatny i dostępny tylko wewnątrz klasy `Human`.
 
-#### Polimorfizm:
+#### Polimorfizm (Polymorphism):
 Polimorfizm pozwala na wykorzystanie jednej metody w różnych kontekstach.
 
 ```python
