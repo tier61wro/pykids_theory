@@ -62,11 +62,11 @@ Metoda `speak` zachowuje się inaczej w zależności od typu obiektu.
 #### Zadania:
 1. **Tworzenie klas i obiektów z dziedziczeniem**: Utwórz klasy `Car` i `Ford`, a następnie obiekty tych klas.
 Car ma atrybuty:
-kola
-type
+kola  
+type  
 
-Ford ma atrybut Model
-kazdy model ma swoje wage
+Ford ma atrybut Model  
+kazdy model ma swoje wage  
 
 2. **Dodanie metody z enkapsulacją**: Dodaj metodę do klasy `Human`, która bezpiecznie pokazuje wiek.
 3. **Implementacja polimorfizmu**: Dodaj metodę `speak` do obu klas i zobacz, jak różnie działają obiekty przy jej użyciu.
