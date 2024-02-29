@@ -37,6 +37,10 @@ from mój_pakiet.moduł1 import moja_funkcja
 moja_funkcja()
 ```
 
+TODO !!!
+Tell about try except in this lesson
+
+
 #### Zadania:
 1. **Stwórz własny pakiet**: Zorganizuj swój kod, tworząc pakiet o nazwie `mój_pakiet` z co najmniej dwoma modułami.
 2. **Dodaj funkcje do modułów**: W każdym module zdefiniuj przynajmniej jedną funkcję.
@@ -44,3 +48,6 @@ moja_funkcja()
 
 #### Podsumowanie:
 Tworzenie własnych pakietów i korzystanie z nich za pomocą `import` to świetny sposób na organizację i ponowne użycie kodu w Pythonie. Ta lekcja pokazuje podstawy, jak zacząć pracę z pakietami.
+
+
+
