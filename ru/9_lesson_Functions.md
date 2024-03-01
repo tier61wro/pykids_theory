@@ -33,7 +33,7 @@ say_hello()
 Пример:
 ```python
 def greet(name):
-    print(f"Привет, {name}!")
+    print("Привет,", name)
 
 # Вызов функции с параметром
 greet("Аня")
