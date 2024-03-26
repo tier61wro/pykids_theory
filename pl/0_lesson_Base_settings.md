@@ -56,9 +56,9 @@ Pamiętaj, aby zachować swoje dane logowania w bezpiecznym miejscu i nie udost�
 1. W centralnym oknie zobaczysz miejsce, w którym możesz pisać swój kod.
 2. Usuń wszelki kod, który może być tam już napisany.
 3. Wpisz następujący kod:
-   ```python
-   print("Hello, World!")
-   ```
+```python
+print("Hello, World!")
+```
 
 ## Krok 4: Uruchamianie kodu
 1. Po wpisaniu kodu naciśnij zielony przycisk "Run" (Uruchom), który znajduje się w górnej części ekranu.
