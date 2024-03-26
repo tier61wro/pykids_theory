@@ -34,7 +34,7 @@ spam = 15
 
 ![obrazek1](images/u1_img1.png)
 
-:warning:TODO zwrócić uwagę na to, że spacje są wokół znaku równości.
+⚠️TODO zwrócić uwagę na to, że spacje są wokół znaku równości.
 
 Teraz spróbujmy zapisać w zmiennej tekst, a nie liczbę.
 Przykład:
