@@ -4,7 +4,7 @@ Python to super język programowania dla początkujących, który jest bardzo po
 
 
 # Instrukcja pisania pierwszego programu w Pythonie na Replit
-:warning: Uczymy się języka Python3, ponieważ pozostałe wersje tego języka są już przestarzałe i nie są wspierane.
+⚠️ Uczymy się języka Python3, ponieważ pozostałe wersje tego języka są już przestarzałe i nie są wspierane.
 
 ## Krok 0: Rejestracja na Github
 GitHub to jak wielki internetowy pokój, gdzie programiści mogą przechowywać swoje kody do projektów i dzielić się nimi z innymi. 
@@ -56,9 +56,9 @@ Pamiętaj, aby zachować swoje dane logowania w bezpiecznym miejscu i nie udost�
 1. W centralnym oknie zobaczysz miejsce, w którym możesz pisać swój kod.
 2. Usuń wszelki kod, który może być tam już napisany.
 3. Wpisz następujący kod:
-   \```python
+   ```python
    print("Hello, World!")
-   \```
+   ```
 
 ## Krok 4: Uruchamianie kodu
 1. Po wpisaniu kodu naciśnij zielony przycisk "Run" (Uruchom), który znajduje się w górnej części ekranu.
