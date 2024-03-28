@@ -1,4 +1,4 @@
-# Lekcja 14: Biblioteka Pygame Wprowadzenie
+# Lekcja 14: Biblioteka Pygame Dalej
 
 | Typ zdarzenia | Opis po polsku |
 |---------------|----------------|
