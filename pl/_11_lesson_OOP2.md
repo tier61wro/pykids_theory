@@ -1,4 +1,4 @@
-### Część 2: Zaawansowane pojęcia programowania obiektowego
+# Lekcja 11: Zaawansowane pojęcia programowania obiektowego
 
 #### Cel lekcji:
 Zrozumienie zaawansowanych pojęć OOP: dziedziczenie, enkapsulacja i polimorfizm.
