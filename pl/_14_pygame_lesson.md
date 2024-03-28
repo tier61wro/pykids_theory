@@ -1,3 +1,5 @@
+# Lekcja 14: Biblioteka Pygame Wprowadzenie
+
 | Typ zdarzenia | Opis po polsku |
 |---------------|----------------|
 | `pygame.KEYDOWN` | Naciśnięcie klawisza na klawiaturze. |
