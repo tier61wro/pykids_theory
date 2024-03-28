@@ -1,4 +1,4 @@
-# Lekcja 10: Podstawy programowania obiektowego dla dzieci
+# Lekcja 10: Podstawy programowania obiektowego
 
 #### Cel lekcji:
 Zrozumienie podstaw programowania obiektowego (OOP) w Pythonie.
