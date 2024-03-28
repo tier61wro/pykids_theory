@@ -1,3 +1,4 @@
+# Lekcja 13: Podstawy programowania obiektowego dla dzieci
 ### Biblioteka Pygame / Część 1. Wprowadzenie
 
 Co to jest Pygame?
