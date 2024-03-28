@@ -1,4 +1,4 @@
-### Lekcja: Tworzenie własnych pakietów w Pythonie i użycie `import`
+# Lekcja 12: Tworzenie własnych pakietów i użycie import
 
 #### Cel lekcji:
 Nauczyć się tworzenia własnych pakietów w Pythonie i korzystania z nich za pomocą `import`.
