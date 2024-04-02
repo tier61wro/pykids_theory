@@ -1,8 +1,7 @@
-#
+# Lekcja 1: Podstawy pracy z zmiennymi
 
-```python
-spam = 15
-```
+W tej lekcji przyjrzymy się podstawom pracy ze zmiennymi w Pythonie.
+
 
 ![obrazek1](images/u1_img1.png)
 
