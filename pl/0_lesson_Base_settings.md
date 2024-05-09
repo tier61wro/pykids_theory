@@ -29,7 +29,7 @@ print("Hello World!")
 
 ## Krok 4: Uruchamianie kodu
 1. Po wpisaniu kodu naciśnij zielony przycisk "Run" (Uruchom), który znajduje się w górnej części ekranu.
-2. Na dole ekranu zobaczysz wynik działania twojego programu. Powinien wyglądać tak:
+2. W prawej części ekranu zobaczysz zakładkę "console", w której będzie wyświetlony wynik działania twojego programu. Powinien wyglądać tak:
 ![obrazek1](images/u0_img1.png)
 
 **Gratulacje!** Właśnie napisałeś/aś i uruchomiłeś/aś swój pierwszy program w Pythonie na Replit!
