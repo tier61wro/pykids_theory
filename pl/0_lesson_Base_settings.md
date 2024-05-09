@@ -10,8 +10,8 @@ Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe 
 ## Krok 1: Rejestracja na Replit
 1. Wejdź na stronę [Replit](https://replit.com/).
 2. Kliknij przycisk "Sign up" (Zarejestruj się) w prawym górnym rogu strony.
-3. Wypełnij wszystkie potrzebne pola lub zarejestruj się za pomocą Google, GitHub.
-4. Potwierdź swój adres e-mail, jeśli zostaniesz o to poproszony.
+3. Wypełnij wszystkie potrzebne pola lub zarejestruj się za pomocą Google lub GitHub.
+5. Potwierdź swój adres e-mail, jeśli zostaniesz o to poproszony.
 
 ## Krok 2: Tworzenie nowego projektu
 1. Po zalogowaniu kliknij przycisk "+ New Repl" (Nowy Repl).
@@ -24,15 +24,15 @@ Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe 
 2. Usuń wszelki kod, który może być tam już napisany.
 3. Wpisz następujący kod:
 ```python
-print("Hello, World!")
+print("Hello World!")
 ```
 
 ## Krok 4: Uruchamianie kodu
 1. Po wpisaniu kodu naciśnij zielony przycisk "Run" (Uruchom), który znajduje się w górnej części ekranu.
 2. Na dole ekranu zobaczysz wynik działania twojego programu. Powinien wyglądać tak:
 
-Hello, World!
+Hello World!
 
-**Gratulacje!** Właśnie napisałeś i uruchomiłeś swoją pierwszą program w Pythonie na Replit!
+**Gratulacje!** Właśnie napisałeś i uruchomiłeś swój pierwszą program w Pythonie na Replit!
 
 
