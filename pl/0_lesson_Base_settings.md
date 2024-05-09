@@ -1,7 +1,7 @@
 # Lekcja 0: Pierwszy program w Pythonie na Replit
 ## Dlaczego warto uczyć się Pythona?
 
-Python to język programowania dla początkujących, który jest bardzo popularny na całym świecie. Jest prosty do zrozumienia i łatwy w nauce, a przy tym jest potężny i przydatny – można za jego pomocą pisać programy, robić gry, a nawet sterować robotami! Dlatego warto go poznać i nauczyć się nim posługiwać.
+Python to język programowania dla początkujących, który jest bardzo popularny na całym świecie. Jest prosty do zrozumienia i łatwy w nauce, a przy tym jest potężny i przydatny – można za jego pomocą pisać programy, robić gry, a nawet sterować robotami. Dlatego warto go poznać i nauczyć się nim posługiwać.
 
 Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe wersje tego języka są już przestarzałe i nie są wspierane.
 
