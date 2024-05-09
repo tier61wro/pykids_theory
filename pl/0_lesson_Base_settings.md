@@ -15,7 +15,7 @@ Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe 
 4. Potwierdź swój adres e-mail, jeśli zostaniesz o to poproszony.
 
 ## Krok 2: Tworzenie nowego projektu
-1. Po zalogowaniu się otworzy się okno w, którym wybierzesz swój poziom.
+1. Po zalogowaniu się otworzy się okno, w którym wybierzesz swój poziom.
 2. Wybierz język "Python".
 
 ## Krok 3: Pisanie kodu
