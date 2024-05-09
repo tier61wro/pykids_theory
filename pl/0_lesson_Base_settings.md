@@ -12,11 +12,12 @@ Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe 
 2. Kliknij przycisk "Sign up" (Zarejestruj się) w prawym górnym rogu strony.
 3. Wybierz "Continue with e-mail" i wypełnij wymagane pola.
 ![obrazek1](images/u0_img0.png)
-4. Potwierdź swój adres e-mail, jeśli zostaniesz o to poproszony.
+4. Potwierdź swój adres e-mail, jeśli zostaniesz o to poproszony/a.
 
 ## Krok 2: Tworzenie nowego projektu
 1. Po zalogowaniu się otworzy się okno, w którym wybierzesz swój poziom.
 2. Wybierz język "Python".
+3. Właśnie stworzyłeś/aś swój pierwszy Repl pod nazwą "Python".
 
 ## Krok 3: Pisanie kodu
 1. W centralnym oknie zobaczysz miejsce, w którym możesz pisać swój kod.
@@ -32,6 +33,6 @@ print("Hello World!")
 
 Hello World!
 
-**Gratulacje!** Właśnie napisałeś i uruchomiłeś swój pierwszą program w Pythonie na Replit!
+**Gratulacje!** Właśnie napisałeś/aś i uruchomiłeś/aś swój pierwszy program w Pythonie na Replit!
 
 
