@@ -16,7 +16,7 @@ Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe 
 ## Krok 2: Tworzenie nowego projektu
 1. Po zalogowaniu kliknij przycisk "+ New Repl" (Nowy Repl).
 2. W oknie, które się otworzy, wybierz język "Python".
-3. Nadaj swojemu projektowi nazwę, na przykład "HelloWorld".
+3. Nadaj swojemu projektowi nazwę, na przykład "myproject".
 4. Kliknij przycisk "Create Repl" (Stwórz Repl).
 
 ## Krok 3: Pisanie kodu
