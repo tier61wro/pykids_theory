@@ -9,8 +9,7 @@ Dla uproszczenia możesz sobie wyobrazić, że zmienna to rodzaj
 "pudełka", w którym możesz przechowywać wartości.
 Aby zapisać wartość wyrażenia w zmiennej, użyj instrukcji przypisania.
 Wpisz nazwę zmiennej, potem znak równości (=), który nazywamy operatorem
-przypisania, a na końcu wartość. Na przykład, wpisz w interaktywnej konsoli
-następującą komendę:
+przypisania, a na końcu wartość. Na przykład, wpisz w pliku następującą linię kodu:
 
 ```python
 spam = 15
