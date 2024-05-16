@@ -22,7 +22,8 @@ Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe 
 ## Krok 3: Pisanie kodu
 1. W centralnym oknie zobaczysz miejsce, w którym możesz pisać swój kod.
 2. Usuń wszelki kod, który może być tam już napisany.
-3. Wpisz następujący kod:
+3. Do wyświetlania informacji na ekranie w Pythonie służy funkcja `print()`.
+   Kiedy wpisujemy `print("Hello World!")`, mówimy Pythonowi: "Hej, wydrukuj na ekranie te słowa w cudzysłowie". Ważne jest, aby pamiętać, że nie ma spacji między nazwą funkcji `print` a nawiasem otwierającym - są one zawsze zapisywane razem, bezpośrednio jeden za drugim, aby Python zrozumiał, że chcesz coś wydrukować.
 ```python
 print("Hello World!")
 ```
@@ -34,5 +35,8 @@ print("Hello World!")
 Hello World!
 
 **Gratulacje!** Właśnie napisałeś/aś i uruchomiłeś/aś swój pierwszy program w Pythonie na Replit!
+
+## Wyświetlanie informacji na ekranie
+
 
 
