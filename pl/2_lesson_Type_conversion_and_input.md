@@ -48,6 +48,7 @@ print("Cześć", name)
 
 W tym przykładzie program poprosi Cię o wprowadzenie imienia, a następnie przywita Cię.
 
+⚠️ Pamiętaj, że `input()` zapisuje wszystko jako string.
 ---
 
 ## Zadania do lekcji 2: Konwersja typów danych i wprowadzanie danych
@@ -58,8 +59,6 @@ W tym przykładzie program poprosi Cię o wprowadzenie imienia, a następnie prz
 2. Utwórz zmienną z liczbą 50 i przekształć ją na tekst. Wyświetl na ekranie typ uzyskanej zmiennej.
 
 ### Zadanie 2: Wprowadzanie danych
-
-⚠️ Pamiętaj, że `input()` zapisuje wszystko jako string.
 
 1. Zapytaj użytkownika o jego wiek za pomocą funkcji `input()`.
 2. Przekształć wprowadzony wiek na liczbę.
