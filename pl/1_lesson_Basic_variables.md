@@ -165,12 +165,9 @@ Cześć Anna
 
 3. **Liczby zmiennoprzecinkowe (float)**:
    - Utwórz zmienną `height` i przypisz jej swój wzrost
-  
-   
-Oczywiście, oto opis zadania po polsku:
 
 ---
-### Zadanie 4: Rozpoznawanie Poprawnych Nazw Zmiennych w Pythonie
+### Zadanie 4: Rozpoznawanie poprawnych nazw zmiennych w Pythonie
 
 Spójrz na poniższą listę zmiennych i zdecyduj, które z nich są prawidłowe, a które nie:
 
