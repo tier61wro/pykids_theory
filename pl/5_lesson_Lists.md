@@ -66,7 +66,6 @@ for i in range(len(toys_train)):
     print(f"Zabawka w wagonie numer {i} to {toys_train[i]}")
 ```
 
-:warning: TODO PRZENIEŚĆ TUTAJ TUPLE
 ---
 
 ## Zadania do lekcji 5: listy
