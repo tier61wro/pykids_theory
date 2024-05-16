@@ -3,7 +3,7 @@
 
 Python to język programowania dla początkujących, który jest bardzo popularny na całym świecie. Jest prosty do zrozumienia i łatwy w nauce, a przy tym jest potężny i przydatny – można za jego pomocą pisać programy, robić gry, a nawet sterować robotami. Dlatego warto go poznać i nauczyć się nim posługiwać.
 
-Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe wersje tego języka są już przestarzałe i nie są wspierane.
+⚠️ Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe wersje tego języka są już przestarzałe i nie są wspierane.
 
 
 
@@ -27,6 +27,7 @@ Zwróć uwagę, że uczymy się języka Python w wersji 3, ponieważ pozostałe 
 ```python
 print("Hello World!")
 ```
+⚠️  Można używać nie tylko podwójnych cudzysłowów, ale także pojedynczych.
 
 ## Krok 4: Uruchamianie kodu
 1. Po wpisaniu kodu naciśnij zielony przycisk "Run" (Uruchom), który znajduje się w górnej części ekranu.
