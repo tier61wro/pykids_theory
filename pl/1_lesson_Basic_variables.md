@@ -4,7 +4,7 @@ W tej lekcji przyjrzymy się podstawom pracy ze zmiennymi w Pythonie.  Zmienne t
 
 ## Deklarowanie zmiennych
 
-Zmienna to sposób na przechowywanie danych do ich późniejszego wykorzystania.
+Zmienna to sposób na przechowywanie danych do ich późniejszego wykorzystania.  
 Dla uproszczenia możesz sobie wyobrazić, że zmienna to rodzaj
 "pudełka", w którym możesz przechowywać wartości.
 Aby zapisać wartość wyrażenia w zmiennej, użyj instrukcji przypisania.
