@@ -9,7 +9,7 @@ Funkcja **type()** w Pythonie rozwiązuje ten problem. Dzięki tej funkcji może
 liczbą, listą czy czymś innym. Pomaga to zrozumieć, co możemy zrobić z tą zmienną i jak z nią pracować.
 
 ```python
-name = 'Sasha'
+name = 'Michał'
 print(type(name))  # <class 'str'>
 ```
 
