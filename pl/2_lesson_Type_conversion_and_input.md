@@ -63,3 +63,5 @@ W tym przykładzie program poprosi Cię o wprowadzenie imienia, a następnie prz
 2. Przekształć wprowadzony wiek na liczbę.
 3. Wyświetl na ekranie komunikat: "Twój wiek to (ile lat wprowadził użytkownik)".
 
+⚠️ Pamiętaj, że `input()` zapisuje wszystko jako string.
+
