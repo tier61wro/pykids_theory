@@ -34,7 +34,7 @@ text_int = int("Hello!")
 print(type(text_int))  # Error
 ```
 
-W pierwszym przykładzie przekształciliśmy tekst "123" na liczbę 123, w drugim przykładzie przekształciliśmy liczbę 456 na tekst "456", a w trzecim otrzymaliśmy error, ponieważ nie można przekształcić tekstu na liczbę i na odwrót.
+W pierwszym przykładzie przekształciliśmy tekst "123" na liczbę 123, w drugim przykładzie przekształciliśmy liczbę 456 na tekst "456", a w trzecim otrzymaliśmy error, ponieważ nie można przekształcić tekstu na liczbę.
 ## Wprowadzanie danych za pomocą input()
 
 Funkcja `input()` umożliwia otrzymywanie danych od użytkownika. Gdy program się uruchamia, oczekuje, aż użytkownik coś wpisze.
