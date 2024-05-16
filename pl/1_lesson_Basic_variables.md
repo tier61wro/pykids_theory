@@ -115,15 +115,13 @@ Przykład:
 has_homework = True
 ```
 
-:warning: TODO wyjaśnić, że funkcja `print` może przyjmować wiele argumentów.
+⚠️ Funkcja print może przyjmować wiele argumentów.
 
 ```python
 name = "Anna"
 print("Cześć", name)
 Cześć Anna
 ```
-
-:question: Możliwe, że należy podzielić tę lekcję na dwie części: zmienne tekstowe i inne typy zmiennych.
 
 ## Zadania
 
