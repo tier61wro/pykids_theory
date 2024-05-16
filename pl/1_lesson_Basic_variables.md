@@ -1,6 +1,6 @@
 # Lekcja 1: Podstawy pracy ze zmiennymi
 
-W tej lekcji przyjrzymy się podstawom pracy ze zmiennymi w Pythonie. Zmienne to fundament każdego programu, i zrozumienie, jak działają, jest niezwykle ważne dla początkującego programisty.
+W tej lekcji przyjrzymy się podstawom pracy ze zmiennymi w Pythonie.  Zmienne to fundament każdego programu, i zrozumienie, jak działają, jest niezwykle ważne dla początkującego programisty.
 
 ## Deklarowanie zmiennych
 
