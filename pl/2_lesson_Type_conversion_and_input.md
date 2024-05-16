@@ -59,9 +59,8 @@ W tym przykładzie program poprosi Cię o wprowadzenie imienia, a następnie prz
 
 ### Zadanie 2: Wprowadzanie danych
 
+⚠️ Pamiętaj, że `input()` zapisuje wszystko jako string.
+
 1. Zapytaj użytkownika o jego wiek za pomocą funkcji `input()`.
 2. Przekształć wprowadzony wiek na liczbę.
 3. Wyświetl na ekranie komunikat: "Twój wiek to (ile lat wprowadził użytkownik)".
-
-⚠️ Pamiętaj, że `input()` zapisuje wszystko jako string.
-
