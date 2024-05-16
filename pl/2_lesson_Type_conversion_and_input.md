@@ -46,7 +46,7 @@ name = input("Wprowadź swoje imię: ")
 print("Cześć", name)
 ```
 
-W tym przykładzie program poprosi Cię o wprowadzenie imienia, a następnie przywita Cię.
+W tym przykładzie program poprosi Cię o wprowadzenie imienia, a następnie przywita Cię.  
 ⚠️ Pamiętaj, że `input()` zapisuje wszystko jako string.
 
 
