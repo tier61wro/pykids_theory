@@ -2,18 +2,6 @@
 
 W tej lekcji przyjrzymy się podstawom pracy ze zmiennymi w Pythonie. Zmienne to fundament każdego programu, i zrozumienie, jak działają, jest niezwykle ważne dla początkującego programisty.
 
-## Wyświetlanie informacji na ekranie
-
-Do wyświetlania informacji na ekranie w Pythonie służy funkcja `print()`. Kiedy wpisujemy `print("Hello World!")`, mówimy Pythonowi: "Hej, wydrukuj na ekranie te słowa w cudzysłowie". Ważne jest, aby pamiętać, że nie ma spacji między nazwą funkcji `print` a nawiasem otwierającym - są one zawsze zapisywane razem, bezpośrednio jeden za drugim, aby Python zrozumiał, że chcesz coś wydrukować.
-
-Przykład:
-
-```python
-print("Hello World!")
-```
-
-Kiedy uruchomisz ten kod, na ekranie pojawi się tekst `Hello World!`.
-
 ## Deklarowanie zmiennych
 
 Zmienna to sposób na przechowywanie danych do ich późniejszego wykorzystania.
