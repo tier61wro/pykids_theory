@@ -13,7 +13,7 @@ name = 'Sasha'
 print(type(name))  # <class 'str'>
 ```
 
-Patrzymy na nazwę typu, który type() zwraca w cudzysłowie, dla zmiennej **name** otrzymaliśmy **str** czyli ____string____.
+Patrzymy na nazwę typu, który type() zwraca w cudzysłowie, dla zmiennej **name** otrzymaliśmy **str** czyli string.
 
 ## Konwersja typów danych
 
@@ -29,9 +29,12 @@ print(type(number_int))  # <class 'int'>
 
 text = str(456)
 print(type(text))  # <class 'str'>
+
+text_int = int("Hello!")
+print(type(text_int))  # Error
 ```
 
-W pierwszym przykładzie przekształciliśmy tekst "123" na liczbę 123, a w drugim przykładzie przekształciliśmy liczbę 456 na tekst "456".
+W pierwszym przykładzie przekształciliśmy tekst "123" na liczbę 123, w drugim przykładzie przekształciliśmy liczbę 456 na tekst "456", a w trzecim otrzymaliśmy error, ponieważ nie można przekształcić string na int i na odwrót.
 
 ## Wprowadzanie danych za pomocą input()
 
