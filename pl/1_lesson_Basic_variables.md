@@ -115,12 +115,11 @@ Przykład:
 has_homework = True
 ```
 
-⚠️ Funkcja print może przyjmować wiele argumentów.
+⚠️ Funkcja print może przyjmować wiele argumentów.  W takim wypadku należy rozdzielać je przecinkiem.
 
 ```python
 name = "Anna"
-print("Cześć", name)
-Cześć Anna
+print("Cześć", name)  # Cześć Anna
 ```
 
 ## Zadania
