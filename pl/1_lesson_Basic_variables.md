@@ -81,9 +81,9 @@ Istnieją słowa, które Python używa dla swoich potrzeb, takie jak `print`. Ni
 
 W Pythonie mamy kilka podstawowych typów danych:
 
-### Łańcuchy znaków
+### Ciągi znaków (strings)
 
-Łańcuchy znaków służą do przechowywania informacji tekstowych.
+Ciągi znaków służą do przechowywania informacji tekstowych.
 
 Przykłady:
 
@@ -92,13 +92,13 @@ my_string = 'abc 123'
 another_str = "nowa"
 super_str = '''Pierwszy wiersz
 Drugi wiersz'''
-big_text = """Tutaj mamy bardzo długi tekst
+long_text = """Tutaj mamy bardzo długi tekst
 który nigdy nie zmieści się w jednej linii"""
 ```
 
 ### Liczby całkowite (int)
 
-To są liczby bez części dziesiętnej.
+Są toliczby bez części dziesiętnej.
 
 Przykład:
 
@@ -130,6 +130,7 @@ has_homework = True
 :warning: TODO wyjaśnić, że funkcja `print` może przyjmować wiele argumentów.
 
 ```python
+name = "Anna"
 print("Cześć", name)
 Cześć Anna
 ```
