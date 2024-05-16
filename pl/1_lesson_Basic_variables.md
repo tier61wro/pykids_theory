@@ -18,7 +18,7 @@ print(spam)
 
 ![obrazek1](images/u1_img1.png)
 
-Zwróć uwagę na to, że wokół znaku równości są spacje.
+⚠️ Zwróć uwagę na to, że wokół znaku równości są spacje.
 
 Teraz spróbujmy zapisać w zmiennej tekst, a nie liczbę.
 Przykład:
