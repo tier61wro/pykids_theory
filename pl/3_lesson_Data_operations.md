@@ -24,7 +24,8 @@ print(mult_result)  # Wynik: 50
 div_result = a / b  # Dzielenie
 print(div_result)  # Wynik: 2.0
 
-power = a ** b
+power_result = a ** b  # Potęgowanie
+print(power_result)  # Wynik: 100000
 ```
 
 
