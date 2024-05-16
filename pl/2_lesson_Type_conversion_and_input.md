@@ -5,9 +5,7 @@ W tej lekcji przyjrzymy się, jak konwertować różne typy danych oraz jak odbi
 ## Określanie typu danych zmiennej
 
 Czasami musimy określić typ danych, aby zrozumieć, jakie operacje można zastosować do zmiennej.
-Funkcja **type()** w Pythonie rozwiązuje ten problem.
-To funkcja jest jak "magiczne okulary", które pozwalają nam zobaczyć, z czego zrobiona jest rzecz w świecie Pythona.
-Gdy patrzymy na zmienną przez te okulary (czyli używamy funkcji type()), możemy dowiedzieć się, czy zmienna jest tekstem,
+Funkcja **type()** w Pythonie rozwiązuje ten problem. Dzięki tej funkcji możemy dowiedzieć się, czy zmienna jest tekstem,
 liczbą, listą czy czymś innym. Pomaga to zrozumieć, co możemy zrobić z tą zmienną i jak z nią pracować.
 
 ```python
@@ -15,7 +13,7 @@ name = 'Sasha'
 print(type(name))  # <class 'str'>
 ```
 
-Patrzymy na nazwę typu, który type() zwraca w cudzysłowach, dla zmiennej **name** otrzymaliśmy **str**.
+Patrzymy na nazwę typu, który type() zwraca w cudzysłowie, dla zmiennej **name** otrzymaliśmy **str** czyli ____string____.
 
 ## Konwersja typów danych
 
