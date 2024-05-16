@@ -12,7 +12,7 @@ Przykład:
 print("Hello World!")
 ```
 
-Kiedy uruchomisz ten kod, na ekranie pojawi się tekst "Hello World!".
+Kiedy uruchomisz ten kod, na ekranie pojawi się tekst `Hello World!`.
 
 ## Deklarowanie zmiennych
 
