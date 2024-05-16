@@ -47,10 +47,10 @@ print("Cześć", name)
 ```
 
 W tym przykładzie program poprosi Cię o wprowadzenie imienia, a następnie przywita Cię.
-
 ⚠️ Pamiętaj, że `input()` zapisuje wszystko jako string.
----
 
+
+---
 ## Zadania do lekcji 2: Konwersja typów danych i wprowadzanie danych
 
 ### Zadanie 1: Konwersja typów danych
