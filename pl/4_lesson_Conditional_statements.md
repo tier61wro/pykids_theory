@@ -14,7 +14,7 @@ age = 15
 if age < 18:
     print("Nie możesz jeszcze głosować na wyborach.")
 ```
-to warunek dobrze wizualizuje się przy pomocy diagramu blokowego
+Warunek dobrze wizualizuje się przy pomocy diagramu blokowego
 
 **Diagram blokowy** to graficzne przedstawienie algorytmu lub procesu, 
 używające różnych geometrycznych kształtów do oznaczania różnych rodzajów instrukcji, oraz strzałek wskazujących kierunek przepływu wykonania. 
@@ -35,7 +35,7 @@ weather = "słonecznie"
 if weather == "deszcz":
     print("Weź parasol!")
 elif weather == "słonecznie":
-    print("Nie zapomnij o kremie przeciwsłonecznym!")
+    print("Nie zapomnij o kremie z filtrem!")
 else:
     print("Przygotuj się na każdą pogodę!")
 ```
