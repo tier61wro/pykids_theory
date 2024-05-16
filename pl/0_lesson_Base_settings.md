@@ -36,4 +36,10 @@ Hello World!
 
 **Gratulacje!** Właśnie napisałeś/aś i uruchomiłeś/aś swój pierwszy program w Pythonie na Replit!
 
+## Zadania
 
+### Zadanie 1: Wyświetlanie informacji na ekranie
+
+1. Wyświetl na ekranie swoje imię.
+2. Wyświetl na ekranie swój wiek.
+3. Wyświetl na ekranie swoje ulubione zwierzę.
