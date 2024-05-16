@@ -13,6 +13,7 @@ przypisania, a na końcu wartość. Na przykład, wpisz w pliku następującą l
 
 ```python
 spam = 15
+print(spam)
 ```
 
 ![obrazek1](images/u1_img1.png)
