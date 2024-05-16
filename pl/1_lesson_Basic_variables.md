@@ -146,7 +146,6 @@ print("Cześć", name)  # Cześć Anna
 3. **Liczby zmiennoprzecinkowe (float)**:
    - Utwórz zmienną `height` i przypisz jej swój wzrost
 
----
 ### Zadanie 3: Rozpoznawanie poprawnych nazw zmiennych w Pythonie
 
 Spójrz na poniższą listę zmiennych i zdecyduj, które z nich są prawidłowe, a które nie:
