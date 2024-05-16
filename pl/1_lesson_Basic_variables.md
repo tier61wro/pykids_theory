@@ -93,7 +93,7 @@ another_str = "nowa"
 super_str = '''Pierwszy wiersz
 Drugi wiersz'''
 long_text = """Tutaj mamy bardzo długi tekst
-który nigdy nie zmieści się w jednej linii"""
+który nie zmieści się w jednej linii"""
 ```
 
 ### Liczby całkowite (int)
