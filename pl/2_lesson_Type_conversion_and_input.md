@@ -17,7 +17,7 @@ Patrzymy na nazwę typu, który type() zwraca w cudzysłowie, dla zmiennej **nam
 
 ## Konwersja typów danych
 
-Czasami potrzebujemy zmienić typ danych. Na przykład, przekształcić tekst na liczbę lub odwrotnie. Python ma specjalne funkcje do tego.
+Czasami potrzebujemy zmienić typ danych. Na przykład, przekształcić tekst na liczbę. Python ma specjalne funkcje do tego.
 
 Przykłady:
 
