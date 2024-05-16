@@ -36,7 +36,4 @@ Hello World!
 
 **Gratulacje!** Właśnie napisałeś/aś i uruchomiłeś/aś swój pierwszy program w Pythonie na Replit!
 
-## Wyświetlanie informacji na ekranie
-
-
 
