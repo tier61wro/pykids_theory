@@ -125,19 +125,13 @@ print("Cześć", name)  # Cześć Anna
 
 ## Zadania
 
-### Zadanie 1: Wyświetlanie informacji na ekranie
-
-1. Wyświetl na ekranie swoje imię.
-2. Wyświetl na ekranie swój wiek.
-3. Wyświetl na ekranie swoje ulubione zwierzę.
-
-### Zadanie 2: Deklarowanie zmiennych
+### Zadanie 1: Deklarowanie zmiennych
 
 1. Utwórz zmienną `fruit` i przypisz jej wartość swojego ulubionego owocu.
 2. Utwórz zmienną `number` i przypisz jej wartość swojej ulubionej liczby.
 3. Wyświetl na ekranie obie zmienne przy pomocy funkcji `print()`.
 
-### Zadanie 3: Typy danych
+### Zadanie 2: Typy danych
 
 1. **Łańcuchy znaków**:
    - Utwórz zmienną tekstową `song` i przypisz jej tytuł swojej ulubionej piosenki.
@@ -153,7 +147,7 @@ print("Cześć", name)  # Cześć Anna
    - Utwórz zmienną `height` i przypisz jej swój wzrost
 
 ---
-### Zadanie 4: Rozpoznawanie poprawnych nazw zmiennych w Pythonie
+### Zadanie 3: Rozpoznawanie poprawnych nazw zmiennych w Pythonie
 
 Spójrz na poniższą listę zmiennych i zdecyduj, które z nich są prawidłowe, a które nie:
 
