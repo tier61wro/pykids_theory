@@ -86,7 +86,7 @@ który nie zmieści się w jednej linii"""
 
 ### Liczby całkowite (int)
 
-Są toliczby bez części dziesiętnej.
+Są to liczby bez części dziesiętnej.
 
 Przykład:
 
@@ -103,7 +103,7 @@ Przykład:
 ```python
 weight = 45.5
 ```
-:warning: TODO zwrócić uwagę na to, że używamy kropki, a nie przecinka.
+⚠️ Zwróć uwagę na to, że używamy kropki, a nie przecinka.
 
 ### Wartości logiczne
 
