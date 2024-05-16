@@ -115,7 +115,8 @@ Przykład:
 has_homework = True
 ```
 
-⚠️ Funkcja print może przyjmować wiele argumentów.  W takim wypadku należy rozdzielać je przecinkiem.
+⚠️ Funkcja print może przyjmować wiele argumentów.
+W takim wypadku należy rozdzielać je przecinkiem.
 
 ```python
 name = "Anna"
